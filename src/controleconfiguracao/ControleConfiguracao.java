@@ -37,6 +37,6 @@ Scanner input = new Scanner (System.in);
         }
         else if (n3 < n1 & n3 < n2){
         System.out.println("O menor numero é: "+n3);
-        }teste
+        }
         } 
 }
